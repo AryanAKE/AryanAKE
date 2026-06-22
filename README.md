@@ -1,5 +1,5 @@
 # 💫 About Me:
-The Basics<br>Name: Aryan Kumar Ekka<br><br>Age: 22 years old (Born March 18, 2004)<br><br>Location Base: You are based in Northeast India. You frequently travel across Assam and Nagaland—specifically navigating between Guwahati, Tezpur, and Dimapur—and recently renewed your employment exchange registration on the Assam Sewasetu portal.<br><br>🎓 Current Studies<br>Degree: You are currently pursuing a Master of Computer Applications (MCA) as a postgraduate student at Tezpur University.
+The Basics<br>Name: Aryan Kumar Ekka<br><br>Age: 22 years old (Born March 18, 2004)<br><br>🎓 Current Studies<br>Degree: You are currently pursuing a Master of Computer Applications (MCA) as a postgraduate student at Tezpur University.
 
 
 ## 🌐 Socials
