@@ -1,5 +1,5 @@
 
-**AryanAKE/AryanAKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AryanAKE/AryanAKE*
 **Frameworks & Mobile**
 - React Native
 
