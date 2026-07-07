@@ -54,7 +54,7 @@ I am a passionate software developer currently pursuing my postgraduate degree. 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=AryanAKE&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Aryan's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=AryanAKE&theme=radical&hide_border=false" alt="Aryan's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AryanAKE&theme=radical&hide_border=false&v=1" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanAKE&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
